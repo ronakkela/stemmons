@@ -1,0 +1,50 @@
+.body {
+    margin: 0;
+    padding: 0;
+    }
+
+.logo {
+    Width: 350px;
+    margin: 25px 0px 0px 20px;
+   }
+   
+.phonenumber {
+    font-size: 22px; 
+    text-align: right;
+    margin: 50px 0px 0px 0px;
+   }
+
+.registerform{
+    padding-top: 0px;
+   }
+.btnSubmit{
+    text-align: center;
+    margin: auto ;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+.form-control1{
+    background-color: #3CBC8D;
+    }
+.notification{
+    margin-top: 30px;
+     }
+.middlebody {
+    background-color: #0057B9;  
+    position:absolute;
+    margin-top: 2%;
+    height: 90%;
+    width:100%;
+    } 
+.profile-img {
+    position:absolute;
+    width: 100%;
+    position: relative;
+    }
+.middlelogo {
+    position: relative;
+    }
+.alert{
+    display: none;
+    margin-top: 20px ;
+}
